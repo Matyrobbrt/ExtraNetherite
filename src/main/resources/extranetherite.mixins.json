@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "com.matyrobbrt.extranetherite.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "extranetherite.refmap.json",
+	"mixins": [
+	],
+	"minVersion": "0.8"
+}
